@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    paddind:0;
+
+}
+.cv{
+    background-color: lightgrey;
+    height: 120vh;
+    width:70vw;
+    border-radius: 5px;
+    border-color:1px solid black;
+    margin: auto;
+    
+
+}
+h1{
+    margin-left: 90px;
+}
+.address{
+     margin-left: 90px;
+     font-size: 20px;
+     margin-top: 5px;
+}
+.skils{
+    margin-left: 90px;
+    margin-top:15px;
+    font-weight:bold ;
+}
+.education{
+    margin-left: 90px;
+    margin-top:15px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.experience{
+    margin-left: 90px;
+    margin-top:15px;
+    font-weight: bold;
+    font-size:20px;
+}
+.connection{
+    margin-left: 90px;
+    margin-top:15px;
+    font-size: bol
+}
+ h2{
+    color:red;
+}
+p{
+    margin-top: 5px;
+    color:brown;
+    padding: 5px;
+}
+.skils ul{
+    padding: 20px;
+}
+.experience ul{
+    margin-top:5px ;
+    color:brown;
+}
